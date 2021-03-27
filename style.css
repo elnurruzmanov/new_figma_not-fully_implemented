@@ -377,3 +377,23 @@ body {
         width: 300px;
     }
 }
+
+@media(max-width:420px){
+    .container{
+        width:300px; 
+    }
+    .header-item{
+        width:200px;}
+
+    .header-text{
+        width: 200px;
+    }
+
+    .header-paragraph{
+        width:200px;
+    }
+
+    .nav-info{
+        padding:20px;
+    }
+}
